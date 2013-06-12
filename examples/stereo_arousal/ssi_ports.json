@@ -1,0 +1,111 @@
+{
+	"board1":{
+
+		"send_ecg":50000,
+		"send_gsr":50001,
+		"send_air":50002,
+
+		"receive_ecg":50100,
+		"receive_ecg-hr":50101,
+		"receive_ecg-rspike":50102,
+		"receive_ecg-pulse":50102,
+		"receive_ecg-tdf":50103,
+		"receive_ecg-sdf":50104,
+
+		"receive_gsr":50111,
+		"receive_gsr_pre":50112,
+		"receive_gsr_arousal":50113,
+		"receive_gsr_peak":50114,
+		"receive_gsr_slope":50144,
+		"receive_gsr_drop":50144,
+
+		"air":50120,
+		"air_pre":50121,
+		"air_pulse":50122,
+		"air_exhale":50122
+
+	},
+
+	"board2":{
+
+		"send_ecg":51000,
+		"send_gsr":51001,
+		"send_air":51002,
+
+		"receive_ecg":51100,
+		"receive_ecg-hr":51101,
+		"receive_ecg-rspike":51102,
+		"receive_ecg-pulse":51102,
+		"receive_ecg-tdf":51103,
+		"receive_ecg-sdf":51104,
+
+		"receive_gsr":51111,
+		"receive_gsr_pre":51112,
+		"receive_gsr_arousal":51113,
+		"receive_gsr_peak":51114,
+		"receive_gsr_slope":51144,
+		"receive_gsr_drop":51144,
+
+		"air":51120,
+		"air_pre":51121,
+		"air_pulse":51122,
+		"air_exhale":51122
+
+	},
+
+	"board3":{
+
+		"send_ecg":52000,
+		"send_gsr":52001,
+		"send_air":52002,
+
+		"receive_ecg":52100,
+		"receive_ecg-hr":52101,
+		"receive_ecg-rspike":52102,
+		"receive_ecg-pulse":52102,
+		"receive_ecg-tdf":52103,
+		"receive_ecg-sdf":52104,
+
+		"receive_gsr":52111,
+		"receive_gsr_pre":52112,
+		"receive_gsr_arousal":52113,
+		"receive_gsr_peak":52114,
+		"receive_gsr_slope":52144,
+		"receive_gsr_drop":52144,
+
+		"air":52120,
+		"air_pre":52121,
+		"air_pulse":52122,
+		"air_exhale":52122
+
+	},
+
+	"board4":{
+
+		"send_ecg":53000,
+		"send_gsr":53001,
+		"send_air":53002,
+
+		"receive_ecg":53100,
+		"receive_ecg-hr":53101,
+		"receive_ecg-rspike":53102,
+		"receive_ecg-pulse":53102,
+		"receive_ecg-tdf":53103,
+		"receive_ecg-sdf":53104,
+
+		"receive_gsr":53111,
+		"receive_gsr_pre":53112,
+		"receive_gsr_arousal":53113,
+		"receive_gsr_peak":53114,
+		"receive_gsr_slope":53144,
+		"receive_gsr_drop":53144,
+
+		"air":53120,
+		"air_pre":53121,
+		"air_pulse":53122,
+		"air_exhale":53122
+
+	}
+
+
+}
